@@ -1,0 +1,13 @@
+.box{
+    width: 80%;
+    background-color: aliceblue;
+    display: flex;
+    /* justify-content: center;
+    a */
+    align-items: center;
+    padding: 20px;
+}
+
+.box div{
+    padding: 10px;
+}
